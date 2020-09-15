@@ -83,7 +83,7 @@
             this.tabPage_Iesire.Name = "tabPage_Iesire";
             this.tabPage_Iesire.Size = new System.Drawing.Size(1916, 1013);
             this.tabPage_Iesire.TabIndex = 2;
-            this.tabPage_Iesire.Text = "Iesire";
+            this.tabPage_Iesire.Text = "Exit";
             this.tabPage_Iesire.UseVisualStyleBackColor = true;
             // 
             // button_Iesire
@@ -96,7 +96,7 @@
             this.button_Iesire.Name = "button_Iesire";
             this.button_Iesire.Size = new System.Drawing.Size(103, 64);
             this.button_Iesire.TabIndex = 0;
-            this.button_Iesire.Text = "Iesire";
+            this.button_Iesire.Text = "Exit";
             this.button_Iesire.UseVisualStyleBackColor = false;
             this.button_Iesire.Click += new System.EventHandler(this.button_Iesire_Click);
             // 
@@ -109,7 +109,7 @@
             this.tabPage_Clasament.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage_Clasament.Size = new System.Drawing.Size(1916, 1013);
             this.tabPage_Clasament.TabIndex = 1;
-            this.tabPage_Clasament.Text = "Clasament";
+            this.tabPage_Clasament.Text = "Ranking";
             // 
             // dataGridView1
             // 
@@ -132,7 +132,7 @@
             this.tabPage_Joc_Nou.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage_Joc_Nou.Size = new System.Drawing.Size(1916, 1013);
             this.tabPage_Joc_Nou.TabIndex = 0;
-            this.tabPage_Joc_Nou.Text = "Joc Nou";
+            this.tabPage_Joc_Nou.Text = "New Game";
             // 
             // panel1
             // 
@@ -270,11 +270,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(593, 13);
+            this.label1.Location = new System.Drawing.Point(518, 13);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(193, 29);
+            this.label1.Size = new System.Drawing.Size(268, 29);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Numar Patratele:";
+            this.label1.Text = "The number of squares:";
             // 
             // pictureBox3
             // 

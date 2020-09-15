@@ -61,7 +61,7 @@ namespace Puzzle
         public DataTable getClasament()
         {
             SqlCommand command = new SqlCommand();
-            command.CommandText = "SELECT * FROM Clasament";
+            command.CommandText = "SELECT IdUser As Id, Nume As Name, Timp As Time, Patratele As Squares FROM Clasament";
             command.Connection = conn.getConnection();
 
             DataTable table = new DataTable();

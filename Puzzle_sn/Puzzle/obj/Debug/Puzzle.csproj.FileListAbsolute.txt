@@ -20,3 +20,47 @@ D:\Desktop\2013\Csharp-Olimpiada-2013-Puzzle\Puzzle_sn\Puzzle\bin\Debug\Puzzle.e
 D:\Desktop\2013\Csharp-Olimpiada-2013-Puzzle\Puzzle_sn\Puzzle\bin\Debug\Puzzle.pdb
 D:\Desktop\2013\Csharp-Olimpiada-2013-Puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Joc.resources
 D:\Desktop\2013\Csharp-Olimpiada-2013-Puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Administrare.resources
+D:\Desktop\AtestatInfo\Puzzle_sn\Puzzle\bin\Debug\Puzzle.exe
+D:\Desktop\AtestatInfo\Puzzle_sn\Puzzle\bin\Debug\Puzzle.pdb
+D:\Desktop\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+D:\Desktop\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Administrare.resources
+D:\Desktop\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Joc.resources
+D:\Desktop\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.LogIn.resources
+D:\Desktop\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Lvl1.resources
+D:\Desktop\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+D:\Desktop\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+D:\Desktop\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.exe
+D:\Desktop\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.pdb
+D:\Desktop\Curat\Info\AtestatInfo\Puzzle_sn\Puzzle\bin\Debug\Puzzle.exe
+D:\Desktop\Curat\Info\AtestatInfo\Puzzle_sn\Puzzle\bin\Debug\Puzzle.pdb
+D:\Desktop\Curat\Info\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+D:\Desktop\Curat\Info\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Administrare.resources
+D:\Desktop\Curat\Info\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Joc.resources
+D:\Desktop\Curat\Info\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.LogIn.resources
+D:\Desktop\Curat\Info\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Lvl1.resources
+D:\Desktop\Curat\Info\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+D:\Desktop\Curat\Info\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+D:\Desktop\Curat\Info\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.exe
+D:\Desktop\Curat\Info\AtestatInfo\Puzzle_sn\Puzzle\obj\Debug\Puzzle.pdb
+D:\Desktop\CV gOOg\puzzle\Puzzle_sn\Puzzle\bin\Debug\Puzzle.exe
+D:\Desktop\CV gOOg\puzzle\Puzzle_sn\Puzzle\bin\Debug\Puzzle.pdb
+D:\Desktop\CV gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+D:\Desktop\CV gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Administrare.resources
+D:\Desktop\CV gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Joc.resources
+D:\Desktop\CV gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.LogIn.resources
+D:\Desktop\CV gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Lvl1.resources
+D:\Desktop\CV gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+D:\Desktop\CV gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+D:\Desktop\CV gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.exe
+D:\Desktop\CV gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.pdb
+D:\Desktop\CV_gOOg\puzzle\Puzzle_sn\Puzzle\bin\Debug\Puzzle.exe
+D:\Desktop\CV_gOOg\puzzle\Puzzle_sn\Puzzle\bin\Debug\Puzzle.pdb
+D:\Desktop\CV_gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+D:\Desktop\CV_gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Administrare.resources
+D:\Desktop\CV_gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Joc.resources
+D:\Desktop\CV_gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.LogIn.resources
+D:\Desktop\CV_gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Lvl1.resources
+D:\Desktop\CV_gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+D:\Desktop\CV_gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+D:\Desktop\CV_gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.exe
+D:\Desktop\CV_gOOg\puzzle\Puzzle_sn\Puzzle\obj\Debug\Puzzle.pdb

@@ -30,11 +30,11 @@ namespace Puzzle
                 if (clasament.deletUser(id))
                 {
                     this.dataGridView1.DataSource = clasament.getClasament();
-                    MessageBox.Show("user deleted");
+                    MessageBox.Show("User deleted");
                 }
                 else
                 {
-                    MessageBox.Show("error");
+                    MessageBox.Show("Error");
                 }
             }
             catch(Exception ex)
@@ -45,11 +45,11 @@ namespace Puzzle
 
         private void button_Iesire_Click(object sender, EventArgs e)
         {
-            string fn = Application.StartupPath + @"\Clasament.txt";
+            string fn = Application.StartupPath + @"\Ranking.txt";
             DataTable table = clasament.getClasament();
             string row = "";
             System.IO.File.AppendAllText(fn, "\n\n");
-            System.IO.File.AppendAllText(fn, "Clasament Nou");
+            System.IO.File.AppendAllText(fn, "New Ranking");
             System.IO.File.AppendAllText(fn, "\n\n");
             for (int i = 0; i < table.Rows.Count; i++)
             {

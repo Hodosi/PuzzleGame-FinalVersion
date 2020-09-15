@@ -61,17 +61,17 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(84, 29);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Nume:";
+            this.label1.Text = "Name:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(64, 148);
+            this.label2.Location = new System.Drawing.Point(27, 148);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(89, 29);
+            this.label2.Size = new System.Drawing.Size(126, 29);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Parola:";
+            this.label2.Text = "Password:";
             // 
             // button_jucator
             // 
@@ -80,7 +80,7 @@
             this.button_jucator.Name = "button_jucator";
             this.button_jucator.Size = new System.Drawing.Size(329, 44);
             this.button_jucator.TabIndex = 4;
-            this.button_jucator.Text = "Jucator";
+            this.button_jucator.Text = "Player";
             this.button_jucator.UseVisualStyleBackColor = true;
             this.button_jucator.Click += new System.EventHandler(this.button_jucator_Click);
             // 
@@ -91,7 +91,7 @@
             this.button_admin.Name = "button_admin";
             this.button_admin.Size = new System.Drawing.Size(329, 44);
             this.button_admin.TabIndex = 5;
-            this.button_admin.Text = "Administrator";
+            this.button_admin.Text = "Admin";
             this.button_admin.UseVisualStyleBackColor = true;
             this.button_admin.Click += new System.EventHandler(this.button_admin_Click);
             // 
@@ -111,7 +111,7 @@
             this.MinimizeBox = false;
             this.Name = "LogIn";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Log in";
+            this.Text = "Login";
             this.ResumeLayout(false);
             this.PerformLayout();
 

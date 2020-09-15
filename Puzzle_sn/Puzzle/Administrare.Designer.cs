@@ -64,7 +64,7 @@
             this.tabPage_Clasament.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage_Clasament.Size = new System.Drawing.Size(792, 453);
             this.tabPage_Clasament.TabIndex = 0;
-            this.tabPage_Clasament.Text = "Clasament";
+            this.tabPage_Clasament.Text = "Ranking";
             // 
             // button_delete
             // 
@@ -101,7 +101,7 @@
             this.tabPage_Iesire.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage_Iesire.Size = new System.Drawing.Size(792, 453);
             this.tabPage_Iesire.TabIndex = 1;
-            this.tabPage_Iesire.Text = "Iesire";
+            this.tabPage_Iesire.Text = "Exit";
             this.tabPage_Iesire.UseVisualStyleBackColor = true;
             // 
             // button_Iesire
@@ -113,7 +113,7 @@
             this.button_Iesire.Name = "button_Iesire";
             this.button_Iesire.Size = new System.Drawing.Size(103, 64);
             this.button_Iesire.TabIndex = 1;
-            this.button_Iesire.Text = "Iesire";
+            this.button_Iesire.Text = "Exit";
             this.button_Iesire.UseVisualStyleBackColor = false;
             this.button_Iesire.Click += new System.EventHandler(this.button_Iesire_Click);
             // 

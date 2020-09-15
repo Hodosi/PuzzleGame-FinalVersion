@@ -111,7 +111,7 @@ namespace Puzzle
         {
             if (slectedimg == 0 || this.comboBox1.SelectedItem == null)
             {
-                MessageBox.Show("Selectati numarul de patratele si o imagine");
+                MessageBox.Show("Please select the number of squares and an image!");
             }
             else
             {
@@ -164,12 +164,12 @@ namespace Puzzle
 
         private void button_Iesire_Click(object sender, EventArgs e)
         {
-            string fn = Application.StartupPath + @"\Clasament.txt";
+            string fn = Application.StartupPath + @"\Ranking.txt";
             dataGridView1.DataSource = clasament.getClasament();
             DataTable table = clasament.getClasament();
             string row = "";
             System.IO.File.AppendAllText(fn, "\n\n");
-            System.IO.File.AppendAllText(fn, "Clasament Nou");
+            System.IO.File.AppendAllText(fn, "New Ranking");
             System.IO.File.AppendAllText(fn, "\n\n");
             for (int i = 0; i < table.Rows.Count; i++)
             {

@@ -18,7 +18,7 @@ namespace Puzzle
 
         private void button_jucator_Click(object sender, EventArgs e)
         {
-            if (this.textBox_pass.Text == "jucator" && this.textBox_nume.Text.Trim() != "")
+            if (this.textBox_pass.Text == "player" && this.textBox_nume.Text.Trim() != "")
             {
                 string nume_user = this.textBox_nume.Text;
                 GLOBAL.globalusername = nume_user;
@@ -29,13 +29,13 @@ namespace Puzzle
             }
             else
             {
-                MessageBox.Show("Introduceti o parola si un nume valid!");
+                MessageBox.Show("Please enter a valid password and name!");
             }
         }
 
         private void button_admin_Click(object sender, EventArgs e)
         {
-            if (this.textBox_pass.Text == "administrator" && this.textBox_nume.Text== "admin")
+            if (this.textBox_pass.Text == "admin" && this.textBox_nume.Text== "admin")
             {
                 this.Hide();
                 Administrare af = new Administrare();
@@ -44,7 +44,7 @@ namespace Puzzle
             }
             else
             {
-                MessageBox.Show("Nume sau Parola invalida!");
+                MessageBox.Show("Invalid Name or Password!");
             }
         }
     }
