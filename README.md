@@ -8,11 +8,11 @@ https://www.youtube.com/watch?v=Lv3y-pnvdZw&feature=youtu.be
 ![Image of Path](https://github.com/Hodosi/PuzzleGame-FinalVersion/blob/master/readmeResources/PuzzleCodePath.png.jpg)
 
    **The Game**
-    Login as player:
-        Name: -
-        Password: player
-    Login as admin:  
-        Name: admin
-        Password: admin
+   # Login as player:               
+   ### Name: -
+   ### Password: player
+   # Login as admin:  
+   ### Name: admin
+   ### Password: admin
 ![Image of Game](https://github.com/Hodosi/PuzzleGame-FinalVersion/blob/master/readmeResources/2020-09-15%20(12).png)
 ![Image of Game](https://github.com/Hodosi/PuzzleGame-FinalVersion/blob/master/readmeResources/2020-09-15%20(14).png)
