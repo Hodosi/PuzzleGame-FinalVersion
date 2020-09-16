@@ -3,7 +3,7 @@ Puzzle Game for kids, made by using C#, SQL and Windows Forms
 
    **Demo Video:**
 https://www.youtube.com/watch?v=Lv3y-pnvdZw&feature=youtu.be
-<a href="https://www.youtube.com/watch?v=Lv3y-pnvdZw&feature=youtu.be" target="_blank">thesitewizard.com</a>
+[go](http://stackoverflow.com){:target="_blank"}
    
    **Code Path**
 ![Image of Path](https://github.com/Hodosi/PuzzleGame-FinalVersion/blob/master/readmeResources/PuzzleCodePath.png.jpg)
